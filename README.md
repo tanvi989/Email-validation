@@ -1,4 +1,4 @@
-# Email-validation ising string function
+# Email-validation using string function
 Email validation is the process of verifying whether an email address provided by a user or collected through a form is syntactically correct and potentially exists. 
 Email validation is the process of verifying whether an email address provided by a user or collected through a form is syntactically correct and potentially exists. It is commonly used in various online applications, websites, and systems to ensure that the email addresses entered by users are valid and can be used for communication. Here are the main steps involved in email validation:
 
